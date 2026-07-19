@@ -5,7 +5,6 @@ import { getFirestore } from 'firebase/firestore';
 
 // 🔥 Firebase configuration is now set up with your project credentials.
 const firebaseConfig = {
-  apiKey: "AIzaSyA9NmHv0M7Hw_PBjScwn_CZ6wG6_7WGz18",
   authDomain: "talkforge-60f4c.firebaseapp.com",
   projectId: "talkforge-60f4c",
   storageBucket: "talkforge-60f4c.appspot.com",
